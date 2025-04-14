@@ -23,12 +23,12 @@ if [[ $1 =~ ^(-h|--help|-y|--yardım) ]] ; then
     echo ""
     echo -e "Default Kullanım İçin Dosyayı ${lightgreen}sudo bash bchacktool.sh$tp"
     echo "----------------------------------------------------------"
-    echo -e $cyan"    Create by           $white":" $red ByChan$tp"
-    echo -e $cyan"    Github              $white":" $red https://github.com/ByCh4n$tp"
+    echo -e $cyan"    Create by           $white":" $red supreme destructor$tp"
+    echo -e $cyan"    Github              $white":" $red https://github.com/kinngkolos290$tp"
     echo -e $cyan"    Instagram           $white":" $red @huseyinaltns$tp"
-    echo -e "$cyan    Discord            $white : $red https://discord.io/bychan$tp"
+    echo -e "$cyan    Discord            $white : $red https://discord.io/lolosmy$tp"
     echo -e "$cyan    Tester             $white : $red CruelMSA$tp"
-    echo -e "$cyan    Developper         $white : $red https://github.com/lazypwny751$tp"
+    echo -e "$cyan    Developper         $white : $red 50938025349$tp"
     exit 0
 elif [[ $1 =~ ^(-u|--update|-g|--güncelle) ]] ; then
     checkupdatepermission=$(ls -l update | awk '{print $1}') 
@@ -193,9 +193,9 @@ clear
 banner
 echo ""
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Create by           $white":" $red ByChan$tp ${blink}${lightgreen}                        |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Discord             $white":" $red https://discord.io/bychan$tp${blink}${lightgreen}      |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Github              $white":" $red https://github.com/ByCh4n$tp ${blink}${lightgreen}     |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Create by           $white":" $red supreme destructor$tp ${blink}${lightgreen}                        |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Discord             $white":" $red https://discord.io/kinngkolos290$tp${blink}${lightgreen}      |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Github              $white":" $red https://github.com/kolosmy$tp ${blink}${lightgreen}     |$tp"
 echo -e "${blink}${lightgreen}  |$tp ${cyan}Instagram           $white":" $red huseyinaltns$tp ${blink}${lightgreen}                  |$tp"
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp\n"
 echo " ~~~~~~~~~~~~~~~~~~~~~ ByChan Termux ~~~~~~~~~~~~~~~~~~~~~~~~~" 
