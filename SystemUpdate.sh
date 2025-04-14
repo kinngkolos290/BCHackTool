@@ -10,13 +10,13 @@ if [[ -f chk ]] ; then
     ok
 else
         clear
-        echo " ______         ______ __                
-|   __ \.--.--.|      |  |--.---.-.-----.
-|   __ <|  |  ||   ---|     |  _  |     |
-|______/|___  ||______|__|__|___._|__|__|
-        |_____|                          
+        echo "█▀▄ █▀▀ █▀ ▀█▀ █▀█ █░█ █▀
+█▄▀ ██▄ ▄█ ░█░ █▀▄ █▄█ █▄
+
+▀█▀ █▀█ █▀█
+░█░ █▄█ █▀▄                         
 "
-        echo "Gerekli araçlar kuruluyor lütfen bekleyin.."
+        echo "Patientez un instant supreme destructor en marche .."
         {
 			apt install git -y
 			apt install python3 -y 
