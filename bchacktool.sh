@@ -21,8 +21,8 @@ if [[ $1 =~ ^(-h|--help|-y|--yardım) ]] ; then
     echo ""
     echo -e "Default Kullanım İçin Dosyayı ${lightgreen}sudo bash bchacktool.sh$tp"
     echo "----------------------------------------------------------"
-    echo -e $cyan"    Create by           $white":" $red ByChan$tp"
-    echo -e $cyan"    Github              $white":" $red https://github.com/ByCh4n$tp"
+    echo -e $cyan"    Create by           $white":" $red supreme destructor$tp"
+    echo -e $cyan"    Github              $white":" $red https://github.com/kinngkolos290$tp"
     echo -e $cyan"    Instagram           $white":" $red @huseyinaltns$tp"
     echo -e $cyan"    Developer           $white":" $red https://github.com/lazypwny751$tp"
     exit 0
@@ -243,8 +243,8 @@ cd $setdir
 banner
 echo ""
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Create by           $white":" $red ByChan$tp ${blink}${lightgreen}                        |$tp"
-echo -e "${blink}${lightgreen}  |$tp ${cyan}Github              $white":" $red https://github.com/ByCh4n$tp ${blink}${lightgreen}     |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Create by           $white":" $red supreme destructor$tp ${blink}${lightgreen}                        |$tp"
+echo -e "${blink}${lightgreen}  |$tp ${cyan}Github              $white":" $red https://github.com/Bykinnkolos290$tp ${blink}${lightgreen}     |$tp"
 echo -e "${blink}${lightgreen}  |$tp ${cyan}Instagram           $white":" $red huseyinaltns$tp ${blink}${lightgreen}                  |$tp"
 echo -e "${blink}${lightgreen}  ---------------------------------------------------------$tp\n"
 echo "  ~~~~~~~~~~~~~~~~~~~~~ BCHackTool ~~~~~~~~~~~~~~~~~~~~~~~~~" 
